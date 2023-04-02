@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "dev": "npm install vite && vite ."
+        "dev": "npm install vite && vite --base index.htm"
     },
     "dependencies": {
         "lite-server": "^2.6.1"
