@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "dev": "npm install http-server && http-server -a index.htm"
+        "dev": "npm install http-server && http-server -o index.htm"
     },
     "dependencies": {
         "lite-server": "^2.6.1"
